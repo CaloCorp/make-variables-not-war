@@ -2,8 +2,27 @@
  * YOUR CODE HERE *
  ******************/
 
+const myFirstName = 'Marc';
 
- 
+const myLastName = 'Calo'
+
+const myBestFriend = 'Jeremy Hess'
+
+const mySentence = 'Marc Calo Jeremy Hess'
+
+const myFavoriteNum = '8'
+
+const myMentalAge = '35'
+
+const myHeight = '67'
+
+const myFavoriteYear = '2012'
+
+const mySum = 3 + 1918 + 24 + 1
+
+const myProduct = 232 * 43 / 2 + 4
+
+const myHeightAndAge = 35 + 67 
 
 
 /*********************************************************************************************************************
